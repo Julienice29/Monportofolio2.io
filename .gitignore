@@ -1,1 +1,8 @@
-/nbproject/private/
+[user]
+	name = Julienice29
+        email = julien.ice@yahoo.com
+[filter "lfs"]
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
