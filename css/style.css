@@ -1,3 +1,11 @@
-.jumbotron{
+html body .jumbotron img {
     float: left;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+  html body footer div.container {
+    max-width: 1800px;
+}
+html body .jumbotron h1 {
+        margin-left: 19px;
 }
