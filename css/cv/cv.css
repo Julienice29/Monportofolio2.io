@@ -24,7 +24,8 @@ body { padding-top: 50px; }
     
 .row.cadreCV:nth-child(2){
         width: 1140px;
-        margin-left: 350px;
+        margin-right: auto;
+        margin-left: auto;
     }
 
 .jumbotron #cv-entete.text-center {
