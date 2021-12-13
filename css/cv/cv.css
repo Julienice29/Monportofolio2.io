@@ -117,3 +117,14 @@ div#cv-entete {
 #competences .container .classement3 { background-position: 0 -56px; }
 #competences .container .classement4 { background-position: 0 -28px; }
 #competences .container .classement5 { background-position: 0 0px; }
+
+/******************************************
+* Sport et Passions
+******************************************/
+
+#Sport .container span {
+    color: red;
+}
+#passions .container .libelle {
+    color: green
+}
